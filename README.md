@@ -6,6 +6,3 @@
 
 ---
 
-## 2. Coaching Task  
-**Description:** $300 USD coaching task  
-**Repository Link:** [Own-project](https://gitfront.io/r/boss404/rT4L5k3WYSev/apk-injector/)
